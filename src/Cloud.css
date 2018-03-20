@@ -1,0 +1,12 @@
+.Cloud {
+  animation: cloud-float-animation 180s linear infinite;
+  top: 50%;
+  position: relative;
+  width: 80%;
+  height: 45%;
+}
+
+@keyframes cloud-float-animation {
+  0%   { left: -100%; }
+  100% { left: 100%; }
+}

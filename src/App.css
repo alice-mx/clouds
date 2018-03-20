@@ -1,0 +1,27 @@
+
+
+
+
+.sky {
+  height:100vh;
+  width: 100vw;
+  overflow:hidden;
+  background-image: linear-gradient(45deg, #3c97ff, #a2a0d7, #d7abae, #ffb683);
+}
+
+.layer  {
+  width: 100vw;
+  height: 100vh;
+  overflow:hidden;
+  position:absolute;
+  top:0;
+  left:0;
+}
+
+.menu {
+  height: 20px;
+  position: fixed;
+  width: 100%;
+  background-color: #c6a7bc;
+  color: #fbe6dd;
+}

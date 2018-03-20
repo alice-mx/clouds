@@ -1,0 +1,7 @@
+.Mountain {
+  position:absolute;
+  bottom: 0;
+  left:0;
+  transform-origin: bottom;
+  opacity: 1;
+}
