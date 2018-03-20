@@ -40,13 +40,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <nav className="menu">
-          <ul>
-            <li>
-              <a>Menu Item</a>
-            </li>
-          </ul>
-        </nav>
+
         <div className="sky">
           <svg style={{width:"0", height:"0"}}>
             <defs>
